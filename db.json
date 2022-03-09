@@ -39,6 +39,30 @@
       "image": "./assets/ramen/kojiro.jpg",
       "rating": 6,
       "comment": "Perfect for a cold night."
+    },
+    {
+      "name": "monkey",
+      "restaurant": "monkey resturant",
+      "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Felelur.com%2Fdata_images%2Fmammals%2Fproboscis-monkey%2Fproboscis-monkey-07.jpg&f=1&nofb=1",
+      "rating": "10",
+      "comment": "cool",
+      "id": 6
+    },
+    {
+      "name": "m",
+      "restaurant": "monkey resturant",
+      "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Felelur.com%2Fdata_images%2Fmammals%2Fproboscis-monkey%2Fproboscis-monkey-07.jpg&f=1&nofb=1",
+      "rating": "1",
+      "comment": "not cool",
+      "id": 11
+    },
+    {
+      "name": "orange monkey",
+      "restaurant": "monkey resturant",
+      "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Felelur.com%2Fdata_images%2Fmammals%2Fproboscis-monkey%2Fproboscis-monkey-07.jpg&f=1&nofb=1",
+      "rating": "5",
+      "comment": "kinda cool",
+      "id": 12
     }
   ]
 }
